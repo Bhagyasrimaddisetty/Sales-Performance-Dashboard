@@ -27,6 +27,22 @@ An interactive Excel dashboard analyzing **1,200+ sales transactions** across re
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### Executive Dashboard Overview
+![Dashboard Overview](Screenshot%202026-06-23%20102255.png)
+*Main dashboard with KPI cards, revenue trends, and region-wise sales analysis*
+
+### Region Analysis & Product Performance
+![Region and Product Analysis](Screenshot%202026-06-23%20102301.png)
+*Detailed region × category breakdown with product category performance metrics*
+
+### Profit & Channel Analysis
+![Profit Analysis](Screenshot%202026-06-23%20102311.png)
+*Channel profitability analysis and gross margin breakdown by category*
+
+---
+
 ## 📂 Project Structure
 
 ```
